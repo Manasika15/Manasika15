@@ -1,2 +1,3 @@
 Hey! i am Manasi Kashyapi,
-In this project i have created nike company brand page using React js .
+Iam an Enthusiastic and detail oriented with
+foundation in React js,figma and java.
